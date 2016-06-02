@@ -1,0 +1,103 @@
+#welcome_header{
+	background-color: gray;
+	width: 900px;
+	padding: 20px;
+}
+.blue_button{
+	background-color: blue;
+	color: white;
+	padding: 8px;
+}
+#welcome_description{
+	width: 900px;
+}
+#description_manage, #description_leave, #description_edit{
+	display: inline-block;
+	padding: 10px;
+	width: 280px;
+}
+#signin, #register{
+	padding: 30px;
+}
+#signin label, #signin input{
+	display: block;
+	margin-left: 30px;
+}
+.submit_button{
+	background-color: green;
+	color: white;
+	padding: 8px;
+}
+#signin_button{
+	margin-top: 20px;
+	margin-left: 70px;
+	margin-bottom: 20px;
+}
+#register label, #register input{
+	display: block;
+	margin-left: 30px;
+}
+.red{
+	color: red;
+}
+.show_header{
+	border-bottom: 2px solid black;
+	margin-bottom: 30px;
+}
+.show_header ul{
+	margin-bottom: 5px;
+}
+.show_header ul li{
+	display: inline;
+	padding: 0px 10px;
+}
+.log_off{
+	margin-left: 400px;
+}
+.bold{
+	font-weight: bold;
+}
+#dash_top h1, #dash_top form{
+	display: inline;
+}
+#dash_top form{
+	margin-left: 300px;
+}
+#new_user_top h1, #new_user_top form{
+	display: inline;
+}
+#new_user_top form{
+	margin-left: 300px;
+}
+#add_new_user label, #add_new_user input{
+	display: block;
+	margin-left: 30px;
+}
+#edit_top h1, #edit_top form{
+	display: inline;
+}
+#edit_top form{
+	margin-left: 300px
+}
+#edit{
+	width: 500px;
+	margin: 40px 0px 0px 30px;
+}
+#edit label, #edit input{
+	display: block;
+	margin-left: 30px;
+}
+#edit fieldset, #edit form{
+	display: inline-block;
+	vertical-align: top;
+}
+#edit_description{
+	width: 450px;
+}
+#comment_feed label, #comment_feed input{
+	display: block;
+	margin-left: 30px;
+}
+#comment_section{
+	margin-left: 30px;
+}
