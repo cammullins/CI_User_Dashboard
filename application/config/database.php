@@ -4,7 +4,7 @@
 $active_group = 'default';
 $active_record = TRUE;
 
-$db['default']['hostname'] = '52.40.143.155';
+$db['default']['hostname'] = 'localhost';
 $db['default']['username'] = 'root';
 $db['default']['password'] = 'k1llab33';
 $db['default']['database'] = 'CI_user_dashboard';
